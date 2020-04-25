@@ -1,0 +1,6 @@
+E:\Rani\Calculator\Calculator\bin\Debug\Calculator.exe.config
+E:\Rani\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\Rani\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\Rani\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\Rani\Calculator\Calculator\obj\Debug\Calculator.exe
+E:\Rani\Calculator\Calculator\obj\Debug\Calculator.pdb
