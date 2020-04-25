@@ -18,13 +18,7 @@ namespace Calculator
             Calculator.sum("Hello Everyone");
             Console.Read();
             Console.ReadLine();
-        }
-        //void addName(string firstname, string lastname)
-        //{
-        //    Console.ReadLine("Enter the value for the first name", firstname);
-        //    Console.ReadLine("Enter the value for the first name", lastname);
-        //    Console.WriteLine("My full name is {0} {1}", firstname, lastname);
-        //}       
+        }          
 
         static void FullName()
         {
