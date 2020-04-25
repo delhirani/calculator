@@ -9,21 +9,9 @@ namespace Calculator
     class Program
     {
         static void Main(string[] args)
-        {
-            string FirstName, LastName;
-            //char valueConverter = 'a';
-            //string FirstName = "rani", LastName = "mahaveer";
-            //Console.WriteLine((int)valueConverter);
-            //Console.WriteLine("My full name is {0} {1}", FirstName, LastName);
-            //Console.ReadLine(); 
-            //FirstName=Console.ReadLine();
-            //LastName= Console.ReadLine();
-            //Program ps = new Program();
-            //Console.ReadLine();
-            //ps.addName(FirstName, LastName);
+        {           
             FullName();
             Console.ReadLine();
-
         }
         //void addName(string firstname, string lastname)
         //{
