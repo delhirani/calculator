@@ -30,6 +30,7 @@
 
             Trigonometric.TrianlgeSidesInput(sideOne, sideTwo, sideThree);
             Console.ReadLine();
+
         }
 
         public static void TrianlgeSidesInput(double side1, double side2, double side3)
