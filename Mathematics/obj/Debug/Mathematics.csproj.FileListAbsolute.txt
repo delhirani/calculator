@@ -1,0 +1,7 @@
+D:\Personal\Delhi\Learning\Mathematics\bin\Debug\Mathematics.exe.config
+D:\Personal\Delhi\Learning\Mathematics\bin\Debug\Mathematics.exe
+D:\Personal\Delhi\Learning\Mathematics\bin\Debug\Mathematics.pdb
+D:\Personal\Delhi\Learning\Mathematics\obj\Debug\Mathematics.csprojAssemblyReference.cache
+D:\Personal\Delhi\Learning\Mathematics\obj\Debug\Mathematics.csproj.CoreCompileInputs.cache
+D:\Personal\Delhi\Learning\Mathematics\obj\Debug\Mathematics.exe
+D:\Personal\Delhi\Learning\Mathematics\obj\Debug\Mathematics.pdb
