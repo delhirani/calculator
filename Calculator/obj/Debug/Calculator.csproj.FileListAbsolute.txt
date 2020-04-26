@@ -12,3 +12,10 @@ D:\Personal\Delhi\study\Calculator\obj\Debug\Calculator.csprojAssemblyReference.
 D:\Personal\Delhi\study\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
 D:\Personal\Delhi\study\Calculator\obj\Debug\Calculator.exe
 D:\Personal\Delhi\study\Calculator\obj\Debug\Calculator.pdb
+D:\Personal\Delhi\Learning\Calculator\bin\Debug\Calculator.exe.config
+D:\Personal\Delhi\Learning\Calculator\bin\Debug\Calculator.exe
+D:\Personal\Delhi\Learning\Calculator\bin\Debug\Calculator.pdb
+D:\Personal\Delhi\Learning\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\Personal\Delhi\Learning\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Personal\Delhi\Learning\Calculator\obj\Debug\Calculator.exe
+D:\Personal\Delhi\Learning\Calculator\obj\Debug\Calculator.pdb
