@@ -1,0 +1,17 @@
+D:\Personal\Delhi\Learning\Calculator.Tests\obj\Debug\Trigonometric.Tests.csprojAssemblyReference.cache
+D:\Personal\Delhi\Learning\Calculator.Tests\obj\Debug\Trigonometric.Tests.csproj.CoreCompileInputs.cache
+D:\Personal\Delhi\Learning\Calculator.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Personal\Delhi\Learning\Calculator.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Personal\Delhi\Learning\Calculator.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Personal\Delhi\Learning\Calculator.Tests\bin\Debug\Trigonometric.Tests.dll
+D:\Personal\Delhi\Learning\Calculator.Tests\bin\Debug\Trigonometric.Tests.pdb
+D:\Personal\Delhi\Learning\Calculator.Tests\bin\Debug\Mathematics.exe
+D:\Personal\Delhi\Learning\Calculator.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Personal\Delhi\Learning\Calculator.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Personal\Delhi\Learning\Calculator.Tests\bin\Debug\Mathematics.pdb
+D:\Personal\Delhi\Learning\Calculator.Tests\bin\Debug\Mathematics.exe.config
+D:\Personal\Delhi\Learning\Calculator.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Personal\Delhi\Learning\Calculator.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Personal\Delhi\Learning\Calculator.Tests\obj\Debug\Trigonometric.Tests.csproj.CopyComplete
+D:\Personal\Delhi\Learning\Calculator.Tests\obj\Debug\Trigonometric.Tests.dll
+D:\Personal\Delhi\Learning\Calculator.Tests\obj\Debug\Trigonometric.Tests.pdb
