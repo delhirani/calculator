@@ -25,7 +25,7 @@ namespace Calculator
             string firstname = Console.ReadLine();
             string lastname = Console.ReadLine();
             Console.WriteLine("My full name is {0} {1}", firstname, lastname);
-            _ = Console.ReadLine();
+            Console.ReadLine();
         }
         static class Calculator
         {
