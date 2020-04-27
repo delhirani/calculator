@@ -1,0 +1,5 @@
+D:\Personal\Delhi\study\Calculator\bin\Release\Calculator.exe.config
+D:\Personal\Delhi\study\Calculator\bin\Release\Calculator.exe
+D:\Personal\Delhi\study\Calculator\obj\Release\Calculator.csproj.CoreCompileInputs.cache
+D:\Personal\Delhi\study\Calculator\obj\Release\Calculator.exe
+D:\Personal\Delhi\study\Calculator\obj\Release\Calculator.pdb
