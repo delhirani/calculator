@@ -1,0 +1,11 @@
+networks:
+  default:
+    external:
+      name: nat
+services:
+  calculator:
+    build:
+      context: D:\Personal\Delhi\Learning\Calculator
+      dockerfile: Dockerfile
+    image: calculator
+version: '3.4'
