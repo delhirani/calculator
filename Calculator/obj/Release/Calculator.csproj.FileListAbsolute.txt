@@ -1,0 +1,7 @@
+D:\Personal\Delhi\Learning\Calculator\bin\Release\Calculator.exe.config
+D:\Personal\Delhi\Learning\Calculator\bin\Release\Calculator.exe
+D:\Personal\Delhi\Learning\Calculator\bin\Release\Calculator.pdb
+D:\Personal\Delhi\Learning\Calculator\obj\Release\Calculator.csprojAssemblyReference.cache
+D:\Personal\Delhi\Learning\Calculator\obj\Release\Calculator.csproj.CoreCompileInputs.cache
+D:\Personal\Delhi\Learning\Calculator\obj\Release\Calculator.exe
+D:\Personal\Delhi\Learning\Calculator\obj\Release\Calculator.pdb

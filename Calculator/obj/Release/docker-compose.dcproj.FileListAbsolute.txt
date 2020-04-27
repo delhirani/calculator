@@ -1,0 +1,5 @@
+D:\Personal\Delhi\Learning\Calculator\bin\Release\Calculator.pdb
+D:\Personal\Delhi\Learning\Calculator\bin\Release\Calculator.exe.config
+D:\Personal\Delhi\Learning\Calculator\obj\Release\docker-compose.dcprojAssemblyReference.cache
+D:\Personal\Delhi\Learning\Calculator\obj\Release\docker-compose.dcproj.CoreCompileInputs.cache
+D:\Personal\Delhi\Learning\Calculator\obj\Release\docker-compose.dcproj.CopyComplete
