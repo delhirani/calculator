@@ -10,16 +10,16 @@ namespace ACM.BL
     {
         public string  EmailAddress { get; set; }
         public  int CustomerId { get; private set; }
-        private string _lastName;
-        private string firstName;
+        private string _lastName;     
+        
 
-        public string   FullName
-        {
-            get
-            {
-              return LastName + " , " + FirstName;
-            }
-        } 
+        //public string FullName
+        //{
+        //    get
+        //    {
+        //        return LastName + " , " + FirstName;
+        //    }
+        //}
         public string LastName
         {
 
@@ -31,9 +31,26 @@ namespace ACM.BL
             {
                 _lastName = value;
             }
-    }
+        }
 
-        public string FirstName { get => firstName; set => firstName = value; }
+        public string FirstName { get; set; }        
 
+        public string FullName
+        {
+            get
+            {
+                string fullName = LastName;
+
+                if (!string.IsNullOrWhiteSpace(FirstName))
+                {
+                    if (!string.IsNullOrWhiteSpace (fullName))
+                    {
+                        fullName += ", ";
+                    }
+                    fullName += FirstName;
+                }
+                return fullName;
+            }
+        }
     }
 }
