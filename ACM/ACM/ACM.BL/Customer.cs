@@ -8,18 +8,19 @@ namespace ACM.BL
 {
     public class Customer
     {
+        public Customer()
+        {
+
+        }
+        public Customer(int customerId)
+        {
+            CustomerId = customerId;
+        }
         public string  EmailAddress { get; set; }
-        public  int CustomerId { get; private set; }
+        public int CustomerId { get; private set; }
         private string _lastName;     
         
 
-        //public string FullName
-        //{
-        //    get
-        //    {
-        //        return LastName + " , " + FirstName;
-        //    }
-        //}
         public string LastName
         {
 
@@ -43,7 +44,7 @@ namespace ACM.BL
 
                 if (!string.IsNullOrWhiteSpace(FirstName))
                 {
-                    if (!string.IsNullOrWhiteSpace (fullName))
+                    if (!string.IsNullOrWhiteSpace(fullName))
                     {
                         fullName += ", ";
                     }
@@ -51,6 +52,18 @@ namespace ACM.BL
                 }
                 return fullName;
             }
+        }
+        
+
+        
+        public static int InstanceCount { get; set; }
+        
+        public bool Validate()
+        {
+            var isValid = true;
+            if (string.IsNullOrWhiteSpace(LastName)) isValid = false;
+            if (string.IsNullOrWhiteSpace(EmailAddress)) isValid = false;
+            return isValid;
         }
     }
 }
