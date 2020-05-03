@@ -73,19 +73,19 @@ namespace ACM.BLTest
 
         public void WithEmailEmptyValidate()
         {
-            customer.EmailAddress = "mahaveed@gmail.com"; 
-            string expected = "mahaveed@gmail.com";
+            customer.EmailAddress = "mahaveed@gmail.com";
+            bool expected = false;
             bool actual = customer.Validate();
-
-            Assert.AreEqual(true , actual);
+            Assert.AreNotEqual(expected , actual);
         }
+
+        [TestMethod]
         public void WithEmailValidate()
         {
             customer.EmailAddress = "mahaveed@gmail.com";
-            string expected = "mahaveed@gmail.com";
+            bool expected = false;
             bool actual = customer.Validate();
-
-            Assert.AreEqual(true, actual);
+            Assert.AreNotEqual(expected, actual);
         }
     }
 }

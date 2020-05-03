@@ -37,8 +37,8 @@ namespace ACM.BL
         public bool Validate()
         {
             var isValid = true;
-            if (Quantity == null) isValid = false;
-            if (ProductId == null) isValid = false;
+            if (Quantity <= 0) isValid = false;
+            if (ProductId <= 0) isValid = false;
             if (PurchasePrice  == null) isValid = false;
             return isValid;
         }
