@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ACM.BL
 {
-    public class Customer
+    public class Customer : IEquatable<Customer>
     {
         public Customer()
         {
@@ -16,10 +16,10 @@ namespace ACM.BL
         {
             CustomerId = customerId;
         }
-        public string  EmailAddress { get; set; }
+        public string EmailAddress { get; set; }
         public int CustomerId { get; private set; }
-        private string _lastName;     
-        
+        private string _lastName;
+
 
         public string LastName
         {
@@ -34,7 +34,7 @@ namespace ACM.BL
             }
         }
 
-        public string FirstName { get; set; }        
+        public string FirstName { get; set; }
 
         public string FullName
         {
@@ -53,15 +53,24 @@ namespace ACM.BL
                 return fullName;
             }
         }
-                       
+
         public static int InstanceCount { get; set; }
-        
+
         public bool Validate()
         {
             var isValid = true;
             if (string.IsNullOrWhiteSpace(LastName)) isValid = false;
             if (string.IsNullOrWhiteSpace(EmailAddress)) isValid = false;
             return isValid;
+        }
+
+        public bool Equals(Customer other)
+        {
+            if (other == null) return false;
+            return (CustomerId.Equals(other.CustomerId) && FullName.Equals(other.FullName)
+                && EmailAddress.Equals(other.EmailAddress) && FirstName.Equals(other.FirstName)
+                && LastName.Equals(other.LastName)
+                );
         }
     }
 }

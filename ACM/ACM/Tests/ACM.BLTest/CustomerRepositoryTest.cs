@@ -12,14 +12,21 @@ namespace ACM.BLTest
         {
             //Arrange
             var customerRepository = new CustomerRepository();
-
-            var expected = new Customer(1);
-            
-
-        }
+            int customerId = 1;
+            var expected = new Customer(customerId)
+            {
+                EmailAddress = "mahaveerd@gmail.com",
+                FirstName = "Varunavi",
+                LastName = "Mahaveer"
+            };
             // Act
-            //Assert
+            var actual = customerRepository.Retrieve(1);
+            //actual = expected;
+            //Assert 
+            Assert.AreEqual(true, actual.Equals(expected));
+        }
 
-        
+
+
     }
 }

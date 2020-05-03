@@ -16,7 +16,7 @@ namespace ACM.BL
             if (customerId ==1 )
             {
                 customer.EmailAddress = "mahaveerd@gmail.com";
-                customer.FirstName = "Varunvi";
+                customer.FirstName = "Varunavi";
                 customer.LastName = "Mahaveer";
             }
             return customer;
