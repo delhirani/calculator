@@ -9,6 +9,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{DA8EB296
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACM.BLTest", "Tests\ACM.BLTest\ACM.BLTest.csproj", "{238EA44B-CE90-4CF7-AB73-D18B3F45347E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ICustomer", "ICustomer\ICustomer.csproj", "{5E5DB73A-D042-4292-B79A-3611224B7397}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,10 @@ Global
 		{238EA44B-CE90-4CF7-AB73-D18B3F45347E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{238EA44B-CE90-4CF7-AB73-D18B3F45347E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{238EA44B-CE90-4CF7-AB73-D18B3F45347E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E5DB73A-D042-4292-B79A-3611224B7397}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E5DB73A-D042-4292-B79A-3611224B7397}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E5DB73A-D042-4292-B79A-3611224B7397}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E5DB73A-D042-4292-B79A-3611224B7397}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

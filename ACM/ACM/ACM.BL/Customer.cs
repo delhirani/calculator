@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ICustomer;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ACM.BL
 {
-    public class Customer : IEquatable<Customer>
+    public class Customer : IEquatable<Customer>,IValidate
     {
         public Customer()
         {

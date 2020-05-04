@@ -1,9 +1,9 @@
-﻿using System;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
-using ACM.BL;
-
-namespace ACM.BLTest
+﻿namespace ACM.BLTest
 {
+    using System;
+    using Microsoft.VisualStudio.TestTools.UnitTesting;
+    using ACM.BL;
+
     [TestClass]
     public class CustomerRepositoryTest
     {
