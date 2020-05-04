@@ -4,3 +4,6 @@ D:\Personal\Delhi\study\ACM\ACM\ACM.BL\obj\Debug\ACM.BL.csprojAssemblyReference.
 D:\Personal\Delhi\study\ACM\ACM\ACM.BL\obj\Debug\ACM.BL.csproj.CoreCompileInputs.cache
 D:\Personal\Delhi\study\ACM\ACM\ACM.BL\obj\Debug\ACM.BL.dll
 D:\Personal\Delhi\study\ACM\ACM\ACM.BL\obj\Debug\ACM.BL.pdb
+D:\Personal\Delhi\study\ACM\ACM\ACM.BL\bin\Debug\ICustomer.dll
+D:\Personal\Delhi\study\ACM\ACM\ACM.BL\bin\Debug\ICustomer.pdb
+D:\Personal\Delhi\study\ACM\ACM\ACM.BL\obj\Debug\ACM.BL.csproj.CopyComplete

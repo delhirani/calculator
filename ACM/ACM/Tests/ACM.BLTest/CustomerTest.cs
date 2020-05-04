@@ -7,7 +7,7 @@ namespace ACM.BLTest
     [TestClass]
     public class CustomerTest
     {
-        SpecialCustomers customer = new SpecialCustomers();
+        Customer customer = new Customer();
 
         [TestInitialize]
         public void testInit()

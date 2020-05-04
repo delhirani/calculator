@@ -14,3 +14,5 @@ D:\Personal\Delhi\study\ACM\ACM\Tests\ACM.BLTest\obj\Debug\ACM.BLTest.csproj.Cor
 D:\Personal\Delhi\study\ACM\ACM\Tests\ACM.BLTest\obj\Debug\ACM.BLTest.csproj.CopyComplete
 D:\Personal\Delhi\study\ACM\ACM\Tests\ACM.BLTest\obj\Debug\ACM.BLTest.dll
 D:\Personal\Delhi\study\ACM\ACM\Tests\ACM.BLTest\obj\Debug\ACM.BLTest.pdb
+D:\Personal\Delhi\study\ACM\ACM\Tests\ACM.BLTest\bin\Debug\ICustomer.dll
+D:\Personal\Delhi\study\ACM\ACM\Tests\ACM.BLTest\bin\Debug\ICustomer.pdb

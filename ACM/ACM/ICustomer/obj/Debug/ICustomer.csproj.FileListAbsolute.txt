@@ -1,0 +1,5 @@
+D:\Personal\Delhi\study\ACM\ACM\ICustomer\bin\Debug\ICustomer.dll
+D:\Personal\Delhi\study\ACM\ACM\ICustomer\bin\Debug\ICustomer.pdb
+D:\Personal\Delhi\study\ACM\ACM\ICustomer\obj\Debug\ICustomer.csproj.CoreCompileInputs.cache
+D:\Personal\Delhi\study\ACM\ACM\ICustomer\obj\Debug\ICustomer.dll
+D:\Personal\Delhi\study\ACM\ACM\ICustomer\obj\Debug\ICustomer.pdb
